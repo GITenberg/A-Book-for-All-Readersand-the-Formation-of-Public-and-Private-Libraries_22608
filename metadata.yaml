@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25443'
     url: http://www.gutenberg.org/2009/agents/25443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22608#A-Book-for-All-Readersand-the-Formation-of-Public-and-Private-Libraries
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '2007-09-15'
 gutenberg_type: Text
