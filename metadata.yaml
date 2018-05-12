@@ -1,0 +1,31 @@
+_repo: A-Book-for-All-Readersand-the-Formation-of-Public-and-Private-Libraries_22608
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spofford, Ainsworth Rand
+    alias: Spofford, A. R. (Ainsworth Rand)
+    birthdate: 1825
+    deathdate: 1908
+    gutenberg_agent_id: '25443'
+    url: http://www.gutenberg.org/2009/agents/25443
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2007-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22608'
+  lccn: 00003768
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Books'
+- !lcsh 'Library science'
+title: "A Book for All Readers\r\nAn Aid to the Collection, Use, and Preservation\
+  \ of Books and the Formation of Public and Private Libraries"
+url: http://www.gutenberg.org/ebooks/22608
